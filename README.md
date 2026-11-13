@@ -3,7 +3,6 @@
 Capa de datos para un sistema de **registro de mascotas y servicios veterinarios** (Villavicencio, Meta).
 Proyecto de Bases de Datos II — Ingeniería Informática, AUNAR Villavicencio.
 
-**Integrantes:** _(nombres del grupo)_ · **Grupo:** _#_ · **Docente:** _(nombre)_
 
 ## Contenido
 
