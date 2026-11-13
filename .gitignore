@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+respaldo/
+.venv/
+resultado_consultas.txt
+*.zip
+*.pdf
